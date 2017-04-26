@@ -1,0 +1,6 @@
+<md-toolbar color="primary">
+  <span class="right"><button md-button (click)="refreshFeed()"><md-icon >refresh</md-icon></button></span>
+  <span class="center">Noticias</span>
+</md-toolbar>
+
+<app-feed-card *ngFor="let feed of feeds" [feed]="feed" ></app-feed-card>
