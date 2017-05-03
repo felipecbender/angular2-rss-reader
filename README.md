@@ -1,6 +1,6 @@
 # Angular2RssReader
 
-Simples Angular2 Feed Reader
+Simple Angular2 Feed Reader
 
 ## Development server
 
