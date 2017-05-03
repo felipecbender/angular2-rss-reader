@@ -12,7 +12,7 @@ import './rxjs-operators';
 })
 export class AppComponent implements OnInit {
 
-  private feedUrl: string = 'http://g1.globo.com/dynamo/brasil/rss2.xml';
+  private feedUrl: string = 'http://computerworld.com.br/RSS2';
   private feeds: any;
 
   constructor (

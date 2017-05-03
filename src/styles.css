@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.feed-link{
+  display: block;
+  text-decoration: none;
+}
+.card-feed-entry:hover{
+  background-color: whitesmoke;
+}
